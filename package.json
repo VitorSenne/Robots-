@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/VitorSenne/Robots-.git"
   },
-  "author": "",
+  "author": "Vitor Senne Lima",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/VitorSenne/Robots-/issues"
   },
-  "homepage": "https://github.com/VitorSenne/Robots-#readme"
+  "homepage": "https://github.com/VitorSenne/Robots-#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
